@@ -1,0 +1,17 @@
+name: SwordArtOnlineMC
+version: 1.0
+main: de.spacenerd.swordartonline.main.Main
+
+commands:
+   setdungen:
+      description: Setzte ein Dungen!
+   startdungen:
+      description: Starte den Dungen!
+   setrunner:
+      description: Setze einen Runner!
+   setshop:
+      description: Setze einen Shop!
+   setboss:
+      description: Setze einen Boss!
+   setarcherboss:
+      description: Setze einen Archer Boss!
